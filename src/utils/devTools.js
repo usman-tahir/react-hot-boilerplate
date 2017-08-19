@@ -22,4 +22,5 @@ export function renderDevTools(store) {
             </DebugPanel>
         );
     }
+    return null;
 }
